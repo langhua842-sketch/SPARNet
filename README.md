@@ -23,19 +23,4 @@ Open science and reproducibility are strictly upheld. The codebase is withheld o
 - [ ] Pre-trained Models: Checkpoints for the training seeds reported in the paper, for the ConvNeXt-Base decoder configuration.
 - [ ] Environment Setup: Environment configuration guides and the complete dependency list, including the optional selective state-space kernels used by GLSM.
 
-## 📖 Citation
 
-```bibtex
-@article{xu2026sparnet,
-  title   = {SPARNet: Semantically Guided Spatial--Frequency Arbitration with
-             Overlapping Frequency Bands for Remote Sensing Image Segmentation},
-  author  = {Xu, HeYang and Yang, Guotao},
-  journal = {IEEE Transactions on Geoscience and Remote Sensing},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
-## 📬 Contact
-
-Guotao Yang (corresponding author) — yangguotao@qut.edu.cn
